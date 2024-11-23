@@ -29,7 +29,7 @@ GIT-FRIEND `gitf` is a simple CLI tool that helps you easily manage Git tasks li
 ### Install `gitf` using NPM:
 
 ```bash
-npm i -g gitf
+npm i -g git-friend
 ```
 
 #### Run `gitf` command from the project directory to use.

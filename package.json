@@ -1,0 +1,22 @@
+{
+  "name": "gitf",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "gitf": "./bin/gitf.js"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["git", "cli", "helper", "git-friend"],
+  "author": "Your Name",
+  "license": "ISC",
+  "description": "A friendly CLI for simplifying Git workflows.",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "simple-git": "^3.27.0"
+  }
+}

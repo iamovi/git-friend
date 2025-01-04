@@ -32,7 +32,17 @@ GIT-FRIEND `gitf` is a simple CLI tool that helps you easily manage Git tasks li
 npm i -g git-friend
 ```
 
-#### Run `gitf` command from the project directory to use.
+### Run `gitf` command from the project directory to use.
+
+```bash
+gitf
+```
+
+***Check current version Or, Check for updates,***
+
+```bash
+gitf --version
+```
 
 ### [MIT](LICENSE) LICENSED.
 

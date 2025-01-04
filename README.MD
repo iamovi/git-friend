@@ -1,4 +1,4 @@
-GIT-FRIEND `gitf` is a simple CLI tool that helps you easily manage Git tasks like staging, committing, and pushing changes, as well as managing branches and remotes.
+GIT-FRIEND `gitfr` is a simple CLI tool that helps you easily manage Git tasks like staging, committing, and pushing changes, as well as managing branches and remotes.
 
 ```bash
 # 1. Stage, Commit, and Push Changes
@@ -29,22 +29,22 @@ GIT-FRIEND `gitf` is a simple CLI tool that helps you easily manage Git tasks li
 
 ```
 
-### Install `gitf` using NPM:
+### Install `gitfr` using NPM:
 
 ```bash
 npm i -g git-friend
 ```
 
-### Run `gitf` command from the project directory to use.
+### Run `gitfr` command from the project directory to use.
 
 ```bash
-gitf
+gitfr
 ```
 
 ***Check current version Or, Check for updates,***
 
 ```bash
-gitf --version
+gitfr --version
 ```
 
 ### [MIT](LICENSE) LICENSED.

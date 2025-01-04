@@ -10,7 +10,7 @@ export async function showVersion() {
     const packagePath = path.resolve("./package.json");
     const packageData = JSON.parse(fs.readFileSync(packagePath, "utf8"));
     const currentVersion = packageData.version;
-    const packageName = packageData.name;
+    const packageName = "git-friend"; // Manually set the package name here
 
     console.log(chalk.greenBright(`Git-Friend Version: ${currentVersion}`));
 
